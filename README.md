@@ -6,7 +6,15 @@ Run [rack](http://rack.github.io/) apps natively on OSX.
 
 Try it Out
 ------------
+Fire up your terminal and run:
 
+```bash
+# Clone the repo.
+git clone git@github.com:briangonzalez/cocoa-rack.git
+
+# Open the app.
+open cocoa-rack/build/cocoa-rack.app
+```
 
 How does it work?
 -------------------
@@ -19,6 +27,7 @@ Very beta at the moment, and there are a lot of undocumented and seemingly confu
 
 Demo
 -----
+The following gif shows the app bundled with this repo, called TalkApp, which speaks text which you type. Follow the directions above to try it out.
 <img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/cocoa-rack.gif">
 
 About
