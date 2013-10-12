@@ -6,7 +6,7 @@ Run [rack](http://rack.github.io/) apps natively on OSX.
 
 Demo
 -----
-<img src="https://rawgithub.com/briangonzalez/calle-app/master/assets/images/icon-truck-grey.svg">
+<img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/cocoa-rack.gif">
 
 Try it Out
 ------------
