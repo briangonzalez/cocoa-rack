@@ -30,6 +30,6 @@ Demo
 The following gif shows the app bundled with this repo, called TalkApp, which speaks text which you type. Follow the directions above to try it out.
 <img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/cocoa-rack.gif">
 
-About
--------
-Hacked together by [@brianmgonzalez](http://twitter.com/brianmgonzalez).
+About & Credits
+------------------
+Hacked together by [@brianmgonzalez](http://twitter.com/brianmgonzalez). Icon from [The Noun Project](http://thenounproject.com/noun/coffee-bean/#icon-No2006) by [Randall Barriga](http://thenounproject.com/randy).
