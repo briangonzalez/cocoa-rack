@@ -1,7 +1,7 @@
 <img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/icon.png" width=30 style="margin-right: 10px">  cocoa-rack
 ======================================
 
-Run [rack](http://rack.github.io/) apps natively on OSX.
+Run [rack](http://rack.github.io/) apps within Cocoa.
 
 
 Try it Out
