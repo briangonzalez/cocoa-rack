@@ -18,7 +18,7 @@ open cocoa-rack/build/cocoa-rack.app
 
 How does it work?
 -------------------
-cocoa-rack uses some pretty cool technologies to run rack apps within a webview. cococa-rack will first try to launch your rack app using OSX's system Ruby; if sais Ruby is now found, we fall back to an awesome contained Ruby call [JRuby Complete](http://www.jruby.org/download). A little hacky, but all works in the end.
+cocoa-rack uses some pretty cool technologies to run rack apps within a webview. cocoa-rack will first try to launch your rack app using OSX's system Ruby; if said Ruby is not found, a fallback is used: an awesome contained Ruby called [JRuby Complete](http://www.jruby.org/download). A little hacky, but all works in the end.
 
 
 Disclaimer
