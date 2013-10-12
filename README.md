@@ -4,9 +4,9 @@
 Run [rack](http://rack.github.io/) apps within Mac apps.
 
 
-Try it Out
+Try example app
 ------------
-Fire up your terminal and run:
+Fire up your terminal and run. This will clone the repo and run the example bundled application.
 
 ```bash
 # Clone the repo.
