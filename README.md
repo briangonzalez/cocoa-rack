@@ -1,9 +1,12 @@
-<img src="https://rawgithub.com/briangonzalez/calle-app/master/assets/images/icon-truck-grey.svg" width=30 style="margin-right: 10px">  cocoa-rack
+<img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/icon.png" width=30 style="margin-right: 10px">  cocoa-rack
 ======================================
 
 Run [rack](http://rack.github.io/) apps natively on OSX.
 
-<img src="https://rawgithub.com/briangonzalez/calle-app/master/assets/images/icon-truck-grey.svg" width=30 style="margin-right: 10px">
+
+Demo
+-----
+<img src="https://rawgithub.com/briangonzalez/calle-app/master/assets/images/icon-truck-grey.svg">
 
 Try it Out
 ------------
