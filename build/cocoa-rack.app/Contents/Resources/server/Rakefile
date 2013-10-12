@@ -1,0 +1,22 @@
+# The default, if you just run `rake` in this directory, will list all the available tasks
+task :default do
+  puts "All available rake tasks"
+  system('rake -T')
+end
+
+desc "Start"
+task :start do
+  ENV['PORT']     ||= '9999'
+  version_string  = ENV['VERSION'] ? "VERSION=#{ENV['VERSION']}" : ""
+  puts " ** Starting cocoa-rack Server on port: #{ENV['PORT']}"
+
+  if File.exists?('/usr/bin/ruby')
+    puts " ** Starting with system ruby"
+    system "/usr/bin/ruby ./app.rb #{version_string}"
+  else
+    puts " ** Starting with jRuby complete"
+    system "/usr/bin/java -jar jruby-complete-1.7.3.jar ./app.rb #{version_string}"
+  end
+
+end
+
