@@ -4,10 +4,6 @@
 Run [rack](http://rack.github.io/) apps natively on OSX.
 
 
-Demo
------
-<img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/cocoa-rack.gif">
-
 Try it Out
 ------------
 
@@ -20,6 +16,10 @@ cocoa-rack uses some pretty cool technologies to run rack apps within a webview.
 Disclaimer
 -----------
 Very beta at the moment, and there are a lot of undocumented and seemingly confusing aspects to rack-cocoa, but trust me, it's very simple. In theory, you should never need to touch Objective-C code. 
+
+Demo
+-----
+<img src="https://raw.github.com/briangonzalez/cocoa-rack/master/server/public/images/cocoa-rack.gif">
 
 About
 -------
