@@ -12,8 +12,11 @@ Fire up your terminal and run the following. This will clone the repo and run th
 # Clone the repo.
 git clone git@github.com:briangonzalez/cocoa-rack.git
 
+# Unzip.
+open cocoa-rack/build/talk.zip
+
 # Open the app.
-open cocoa-rack/build/cocoa-rack.app
+open cocoa-rack/build/talk.app
 ```
 
 How does it work?
